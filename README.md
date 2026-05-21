@@ -17,8 +17,6 @@
 
 ---
 
-<img align="left" src="https://avatars.githubusercontent.com/u/196957498?v=4" width="220" alt="Foto de perfil" />
-
 **📍** Rio de Janeiro, Brasil  
 **✉️** [ml.candido2014@gmail.com](mailto:ml.candido2014@gmail.com)  
 **💼** [linkedin.com/in/marcelobrasiliense](https://linkedin.com/in/marcelobrasiliense)  
@@ -43,8 +41,6 @@
 - **LLMs · RAG · MCP** para automação inteligente, análise documental e agentes
 - **React + TypeScript** para frontends modernos e CRMs sob medida
 - **Data Lake/Lakehouse** (Medallion) com governança, qualidade e LGPD
-
-<br clear="left"/>
 
 ## 🇧🇷 Sobre Mim
 Olá! Sou Especialista em Engenharia de IA e Engenharia de Software com mais de 4 anos de experiência construindo sistemas inteligentes, plataformas web modernas e infraestrutura de dados ponta a ponta.

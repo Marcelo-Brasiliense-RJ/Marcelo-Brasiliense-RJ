@@ -13,45 +13,38 @@
 ---
 
 ## Navegação / Navigation
-[🇧🇷 Versão em Português](#-sobre-mim) | [🇺🇸 English Version](#-about-me)
+[🇧🇷 Versão em Português](#sobre-mim) | [🇺🇸 English Version](#about-me)
 
 ---
 
-<table>
-  <tr>
-    <td width="32%" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/196957498?v=4" width="220" alt="Foto de perfil"/>
-      <br/><br/>
-      <b>📍</b> Rio de Janeiro, Brasil<br/>
-      <b>✉️</b> <a href="mailto:ml.candido2014@gmail.com">ml.candido2014@gmail.com</a><br/>
-      <b>💼</b> <a href="https://linkedin.com/in/marcelobrasiliense">linkedin.com/in/marcelobrasiliense</a><br/>
-      <b>🌐</b> Portfólio: <i>(adicione o link aqui)</i><br/>
-    </td>
-    <td valign="top">
-      <h3>When I code, I rely on</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62B" alt="Vite" />
-        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Apache%20Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-        <img src="https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-        <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-        <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-        <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-        <img src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-      </p>
+<img align="left" src="https://avatars.githubusercontent.com/u/196957498?v=4" width="220" alt="Foto de perfil" />
 
-      <h3>Highlights</h3>
-      <ul>
-        <li><b>LLMs · RAG · MCP</b> para automação inteligente, análise documental e agentes</li>
-        <li><b>React + TypeScript</b> para frontends modernos e CRMs sob medida</li>
-        <li><b>Data Lake/Lakehouse</b> (Medallion) com governança, qualidade e LGPD</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**📍** Rio de Janeiro, Brasil  
+**✉️** [ml.candido2014@gmail.com](mailto:ml.candido2014@gmail.com)  
+**💼** [linkedin.com/in/marcelobrasiliense](https://linkedin.com/in/marcelobrasiliense)  
+**🌐** Portfólio: *(adicione o link aqui)*  
+
+### When I code, I rely on
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62B" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+</p>
+
+**Highlights**
+- **LLMs · RAG · MCP** para automação inteligente, análise documental e agentes
+- **React + TypeScript** para frontends modernos e CRMs sob medida
+- **Data Lake/Lakehouse** (Medallion) com governança, qualidade e LGPD
+
+<br clear="left"/>
 
 ## 🇧🇷 Sobre Mim
 Olá! Sou Especialista em Engenharia de IA e Engenharia de Software com mais de 4 anos de experiência construindo sistemas inteligentes, plataformas web modernas e infraestrutura de dados ponta a ponta.

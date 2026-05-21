@@ -17,94 +17,106 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="32%" valign="top">
+      <img src="https://avatars.githubusercontent.com/u/196957498?v=4" width="220" alt="Foto de perfil"/>
+      <br/><br/>
+      <b>📍</b> Rio de Janeiro, Brasil<br/>
+      <b>✉️</b> <a href="mailto:ml.candido2014@gmail.com">ml.candido2014@gmail.com</a><br/>
+      <b>💼</b> <a href="https://linkedin.com/in/marcelobrasiliense">linkedin.com/in/marcelobrasiliense</a><br/>
+      <b>🌐</b> Portfólio: <i>(adicione o link aqui)</i><br/>
+    </td>
+    <td valign="top">
+      <h3>When I code, I rely on</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62B" alt="Vite" />
+        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Apache%20Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+        <img src="https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+        <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+        <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+        <img src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+      </p>
+
+      <h3>Highlights</h3>
+      <ul>
+        <li><b>LLMs · RAG · MCP</b> para automação inteligente, análise documental e agentes</li>
+        <li><b>React + TypeScript</b> para frontends modernos e CRMs sob medida</li>
+        <li><b>Data Lake/Lakehouse</b> (Medallion) com governança, qualidade e LGPD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## 🇧🇷 Sobre Mim
-Olá! Sou Especialista em Engenharia de IA e Engenharia de Software com mais de 4 anos de experiência no desenvolvimento de sistemas inteligentes, plataformas web modernas e infraestrutura de dados robusta ponta a ponta.
+Olá! Sou Especialista em Engenharia de IA e Engenharia de Software com mais de 4 anos de experiência construindo sistemas inteligentes, plataformas web modernas e infraestrutura de dados ponta a ponta.
 
-Atualmente na **IRKO Outsourcing**, lidero a arquitetura de soluções inteligentes envolvendo LLMs, RAG e MCP (Model Context Protocol) para automação de workflows financeiros, além de coordenar pipelines ETL complexos de alta escala (Data Lake no padrão Medallion). Também sou fundador da **Brasitech**, onde atuo desenvolvendo sistemas, sites, CRMs e inteligências artificiais customizadas sob medida para clientes corporativos.
+Atualmente na **IRKO Outsourcing**, atuo com arquiteturas envolvendo **LLMs, RAG e MCP (Model Context Protocol)** para automação de workflows financeiros, além de coordenar pipelines ETL/ELT (Data Lake no padrão Medallion). Também sou fundador da **Brasitech**, onde desenvolvo sistemas, sites, CRMs e soluções de IA customizadas para clientes corporativos.
 
-### 🎯 Foco de Atuação:
-- **Engenharia de IA & LLMOps**: Criação de agentes de IA, integrações de APIs via MCP, RAG avançado, OCR inteligente e automação de processos documentais.
-- **Desenvolvimento Web & CRMs**: Criação de interfaces web ricas de alta performance com React, TypeScript, Vite e Ant Design.
-- **Engenharia de Dados & DataOps**: Pipelines robustos orquestrados em Python e SQL via Airflow/n8n com qualidade de dados e monitoramento de qualidade analítica.
+### 🎯 Foco de Atuação
+- **Engenharia de IA & LLMOps**: agentes, integrações via MCP, RAG, OCR inteligente e automação documental.
+- **Desenvolvimento Web & CRMs**: interfaces ricas com React, TypeScript, Vite e Ant Design.
+- **Engenharia de Dados & DataOps**: pipelines Python/SQL com Airflow/n8n, qualidade e observabilidade.
+
+### 🧩 Portfólio (Brasitech) — projetos que eu construo
+- **Plataforma Web com CRM integrado** (React + TypeScript + Vite + Ant Design): autenticação, RBAC, integrações e segurança por camadas.
+- **Agentes de IA (LLMOps · RAG · MCP · n8n)**: análise de contratos, extração de cláusulas e relatórios de compliance.
+- **OCR + IA para NFs**: extração, validação e lançamento automático no ERP.
+- **Forecast & Estoque (ML)**: previsão de demanda com retreinamento automatizado (MLflow).
+- **DataOps & Monitoramento**: regras de qualidade, alertas de anomalia, lineage e rollbacks.
 
 ---
 
 ## 🇺🇸 About Me
-Hello! I am an AI Engineering and Software Specialist with over 4 years of experience building intelligent systems, modern web platforms, and robust data infrastructure.
+Hello! I am an AI Engineering and Software Specialist with 4+ years of experience building intelligent systems, modern web platforms, and robust end-to-end data infrastructure.
 
-Currently at **IRKO Outsourcing**, I lead the architecture of intelligent systems using LLMs, RAG, and MCP (Model Context Protocol) for financial workflow automation, alongside managing high-scale, complex ETL pipelines (Medallion architecture Data Lake). I am also the founder of **Brasitech**, developing customized software, CRMs, and tailored AI solutions for corporate clients.
+Currently at **IRKO Outsourcing**, I work on **LLM, RAG, and MCP (Model Context Protocol)** architectures for financial workflow automation and lead high-scale ETL/ELT pipelines (Medallion Data Lake). I’m also the founder of **Brasitech**, delivering custom software, CRMs, and tailored AI solutions for enterprise clients.
 
-### 🎯 Key Areas of Expertise:
-- **AI Engineering & LLMOps**: Intelligent agent development, API integrations via MCP, advanced RAG, intelligent OCR, and document automation.
-- **Web Development & CRMs**: Building rich, high-performance web interfaces with React, TypeScript, Vite, and Ant Design.
-- **Data Engineering & DataOps**: Robust Python/SQL pipelines orchestrated with Airflow and n8n, featuring automated data quality validation.
+### 🎯 Key Areas of Expertise
+- **AI Engineering & LLMOps**: agents, MCP integrations, RAG, intelligent OCR, and document automation.
+- **Web Development & CRMs**: high-performance interfaces with React, TypeScript, Vite, and Ant Design.
+- **Data Engineering & DataOps**: Python/SQL pipelines orchestrated with Airflow/n8n, with automated data quality.
 
 ---
 
-## 🛠️ Tecnologias & Habilidades / Tech Stack
-
-### 🧠 IA & MLOps / AI & MLOps
+## 🧰 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=github&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/LLMs_%26_RAG-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs & RAG" />
-  <img src="https://img.shields.io/badge/AI_Agents-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-3178C6?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/MLflow-01579B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-</p>
-
-### 💻 Frontend & Web / Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62B" alt="Vite" />
-  <img src="https://img.shields.io/badge/Ant_Design-0189FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### ⚙️ Engenharia de Dados & Automação / Data Engineering & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
-### ☁️ Nuvem & Bancos de Dados / Cloud & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### 🔌 Integrações / Integrations
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SAP-0180F5?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
-  <img src="https://img.shields.io/badge/TOTVS-00509D?style=for-the-badge&logoColor=white" alt="TOTVS" />
-  <img src="https://img.shields.io/badge/Omie-FF8C00?style=for-the-badge&logoColor=white" alt="Omie" />
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=github&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-111111?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs & RAG" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Airflow-111111?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/dbt-111111?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub / GitHub Stats
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-Brasiliense-RJ&show_icons=true&theme=tokyonight" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Brasiliense-RJ&theme=tokyonight" width="48%" alt="Streak do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-Brasiliense-RJ&show_icons=true&theme=tokyonight" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Brasiliense-RJ&theme=tokyonight" width="48%" alt="GitHub streak" />
 </div>
-
 <br />
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Brasiliense-RJ&layout=compact&theme=tokyonight" width="48%" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Brasiliense-RJ&layout=compact&theme=tokyonight" width="48%" alt="Top languages" />
 </div>
+
+---
+
+## 📝 Most recent articles
+<!-- Se você tiver blog/Medium/Dev.to, me diga o link que eu integro aqui -->
+- (em breve)
 
 ---
 

@@ -8,6 +8,9 @@
   <a href="mailto:ml.candido2014@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://portifolio-marcelo-brasiliense.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
 </p>
 
 ---
@@ -20,7 +23,7 @@
 ## 🇧🇷 Sobre Mim
 Olá! Sou Especialista em Engenharia de IA e Engenharia de Software com mais de 4 anos de experiência no desenvolvimento de sistemas inteligentes, plataformas web modernas e infraestrutura de dados robusta ponta a ponta.
 
-Atualmente na **IRKO Outsourcing**, lidero a arquitetura de soluções inteligentes envolvendo LLMs, RAG e MCP (Model Context Protocol) para automação de workflows financeiros, além de coordenar pipelines ETL complexos de alta escala (Data Lake no padrão Medallion). Também sou fundador da **Brasitech**, onde atuo desenvolvendo sistemas, sites, CRMs e inteligências artificiais customizadas sob medida para clientes corporativos.
+Atualmente atuo em uma consultoria de outsourcing contábil e fiscal de grande porte, onde lidero a arquitetura de soluções inteligentes envolvendo LLMs, RAG e MCP (Model Context Protocol) para automação de workflows financeiros, além de coordenar pipelines ETL complexos de alta escala (Data Lake no padrão Medallion). Também sou fundador da **Brasitech**, onde atuo desenvolvendo sistemas, sites, CRMs e inteligências artificiais customizadas sob medida para clientes corporativos.
 
 ### 🎯 Foco de Atuação:
 - **Engenharia de IA & LLMOps**: Criação de agentes de IA, integrações de APIs via MCP, RAG avançado, OCR inteligente e automação de processos documentais.
@@ -32,7 +35,7 @@ Atualmente na **IRKO Outsourcing**, lidero a arquitetura de soluções inteligen
 ## 🇺🇸 About Me
 Hello! I am an AI Engineering and Software Specialist with over 4 years of experience building intelligent systems, modern web platforms, and robust data infrastructure.
 
-Currently at **IRKO Outsourcing**, I lead the architecture of intelligent systems using LLMs, RAG, and MCP (Model Context Protocol) for financial workflow automation, alongside managing high-scale, complex ETL pipelines (Medallion architecture Data Lake). I am also the founder of **Brasitech**, developing customized software, CRMs, and tailored AI solutions for corporate clients.
+Currently working at a large accounting and financial outsourcing consultancy, I lead the architecture of intelligent systems using LLMs, RAG, and MCP (Model Context Protocol) for financial workflow automation, alongside managing high-scale, complex ETL pipelines (Medallion architecture Data Lake). I am also the founder of **Brasitech**, developing customized software, CRMs, and tailored AI solutions for corporate clients.
 
 ### 🎯 Key Areas of Expertise:
 - **AI Engineering & LLMOps**: Intelligent agent development, API integrations via MCP, advanced RAG, intelligent OCR, and document automation.
@@ -90,6 +93,16 @@ Currently at **IRKO Outsourcing**, I lead the architecture of intelligent system
   <img src="https://img.shields.io/badge/TOTVS-00509D?style=for-the-badge&logoColor=white" alt="TOTVS" />
   <img src="https://img.shields.io/badge/Omie-FF8C00?style=for-the-badge&logoColor=white" alt="Omie" />
 </p>
+
+---
+
+## 🚀 Projetos em Destaque / Featured Projects
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [Portfólio Online](https://portifolio-marcelo-brasiliense.vercel.app/) | Site de portfólio profissional publicado na Vercel. | HTML · JS · Vercel |
+| [Portifolio_Marcelo_Brasiliense](https://github.com/Marcelo-Brasiliense-RJ/Portifolio_Marcelo_Brasiliense) | Código-fonte do portfólio online. | HTML · JS |
+| [Mercado_Mensal_app](https://github.com/Marcelo-Brasiliense-RJ/Mercado_Mensal_app) | Aplicação web em TypeScript com backend em Supabase. | TypeScript · Supabase |
 
 ---
 

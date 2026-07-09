@@ -109,5 +109,5 @@ Currently at **IRKO Outsourcing**, I lead the architecture of intelligent system
 ---
 
 <div align="center">
-  <sub>Construído com ❤️ e IA por Marcelo Brasiliense.</sub>
+  <sub>Construído por Marcelo Brasiliense.</sub>
 </div>
